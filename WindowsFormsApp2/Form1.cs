@@ -17,5 +17,9 @@ namespace WindowsFormsApp2
             string a = "1231";
             MessageBox.Show(a);
         }
+        public void SaySomething()
+        {
+            MessageBox.Show("hello");
+        }
     }
 }
