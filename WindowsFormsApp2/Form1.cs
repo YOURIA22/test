@@ -21,5 +21,10 @@ namespace WindowsFormsApp2
         {
             MessageBox.Show("hello");
         }
+        public class man
+        {
+            private string name = "";
+            private int age = 15;
+        }
     }
 }
